@@ -1,0 +1,21 @@
+# Environment Variables
+.env
+
+# Python Files
+*.pyc
+__pycache__/
+
+# Database
+db.sqlite3
+
+# Static and Media Files
+static/
+media/
+
+# Virtual Environment
+env/
+
+# IDE and OS Files
+.DS_Store
+.idea/
+.vscode/
